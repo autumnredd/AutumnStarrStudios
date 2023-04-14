@@ -30,6 +30,9 @@
 .header{
     background-color: #bd5d38;
     color: #f2dfd7;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
     height: 100px;
     line-height: 100px;
     text-align: center;
